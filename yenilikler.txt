@@ -1,5 +1,5 @@
-🆕 Sürüm 1.1.0 Yenilikleri:
+🆕 Sürüm 1.2.0 Yenilikleri:
 
-- GitHub tabanlı güncelleme sistemi entegre edildi
-- İmza veritabanı genişletildi (davranışsal, binary, heuristic)
+- Koruma algoritmaları geliştirildi.
+- İmza veritabanı genişletildi. (davranışsal, binary, heuristic)
 - Normal Mod/Güvenli Mod sistemi geliştirildi.
