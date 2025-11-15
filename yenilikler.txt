@@ -2,6 +2,7 @@
 
 - GitHub tabanlı güncelleme sistemi entegre edildi
 - İmza veritabanı genişletildi (davranışsal, binary, heuristic)
-- Normal MOd/Güvenli Mod sistemi geliştirildi.
+- Normal Mod/Güvenli Mod sistemi geliştirildi.
+
 
 
