@@ -1,5 +1,7 @@
-🆕 Sürüm 1.2.0 Yenilikleri:
+🆕 Sürüm 1.2.1 Yenilikleri:
 
 - Koruma algoritmaları geliştirildi.
 - İmza veritabanı genişletildi. (davranışsal, binary, heuristic)
 - Normal Mod/Güvenli Mod sistemi geliştirildi.
+-Sızıntı Uyarı Sistem algoritması güçlendirildi.
+-Erken Uyarı Sistem algoritması güçlendirildi.
