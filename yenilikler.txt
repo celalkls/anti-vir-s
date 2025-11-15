@@ -1,8 +1,7 @@
-🆕 Sürüm 1.0.0 Yenilikleri:
+🆕 Sürüm 1.1.0 Yenilikleri:
 
 - GitHub tabanlı güncelleme sistemi entegre edildi
 - İmza veritabanı genişletildi (davranışsal, binary, heuristic)
-- Kernel modül taraması optimize edildi
-- UI teması güncellendi (neon/dark uyumu)
-- Rollback sistemi eklendi
+- Normal MOd/Güvenli Mod sistemi geliştirildi.
+
 
