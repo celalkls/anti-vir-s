@@ -1,8 +1,8 @@
-🆕 Sürüm 1.2.4 Yenilikleri:
+🆕 Sürüm 1.2.5 Yenilikleri:
 
-- Koruma algoritmaları geliştirildi.
-- İmza veritabanı genişletildi. (davranışsal, binary, heuristic)
-- Normal Mod/Güvenli Mod sistemi geliştirildi.
--Sızıntı Uyarı Sistem algoritması güçlendirildi.
--Erken Uyarı Sistem algoritması güçlendirildi.
--Karantina Sistemi Geliştirldi.
+- Koruma Algoritmaları Geliştirildi.
+- Normal Mod/Güvenli Mod sistemi Geliştirildi.
+-Sızıntı Uyarı Sistem Algoritması Güçlendirildi.
+-Erken Uyarı Sistem Algoritması Güçlendirildi.
+-Karantina Sistemi Geliştirildi.
+-Geri Yükleme Sistemi Geliştirildi.
